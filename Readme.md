@@ -4,7 +4,8 @@
 ---
 
 ## NAME: Shushanto Sarkar
-## YEAR: 3rd, SEMESTER: 5th
+## YEAR: 3rd
+## SEMESTER: 5th
 ## BRANCH: ELECTRONICS Engineering
 ## REGISTRATION NO.: 19010887
 ## SDP SESSION 
