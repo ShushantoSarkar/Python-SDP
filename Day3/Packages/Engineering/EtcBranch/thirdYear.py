@@ -1,0 +1,27 @@
+def subjectEtcBranchFifthSem():
+    print("\nTheory : \n")
+    print("Fundamental of Economics\n")
+    print("Analog Integrated circuits\n")
+    print("Fields & Radiating Systems\n")
+    print("Signals & Systems\n")
+    print("Open Elective - I *\n")
+    print("Open Elective - II *\n")
+    print("Industry Visit and its report\n")
+    print("\nLAB : \n")
+    print("Analog Integrated circuits\n")
+    print("Signals & Systems\n")
+    print("Electronics Workshop\n")
+
+
+def subjectEtcBranchSixthSem():
+    print("\nTheory : \n")
+    print("Fundamental of Management \n")
+    print("Digital Signal Processing\n")
+    print("Professional Elective I\n")
+    print("Professional Elective II\n")
+    print("Open Elective - III **\n")
+    print("Open Elective - IV **\n")
+    print("\nLAB : \n")
+    print("Digital Signal Processing\n")
+    print("Professional Elective I\n")
+    print("Professional Elective II\n")

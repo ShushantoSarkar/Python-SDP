@@ -1,0 +1,23 @@
+def subjectCsBranchThirdSem():
+    print("\nTheory : \n")
+    print("Engineering Mathematics III \n")
+    print("Computer Organisation\n")
+    print("Object Oriented Programming\n")
+    print("Data Structures I\n")
+    print("\nLAB : \n")
+    print("Object Oriented Programming\n")
+    print("Data Structures I\n")
+    print("Software Lab-I \n")
+    print("Software Lab-II \n")
+
+def subjectCsBranchFourthSem():
+    print("\nTheory : \n")
+    print("Fundamentals of Economics \n")
+    print("Discrete Mathematics & Probability\n")
+    print("Operating Systems\n")
+    print("Data Structures II\n")
+    print("Introduction to Data Analysis\n")
+    print("\nLAB : \n")
+    print("Operating Systems\n")
+    print("Data Structures II\n")
+    print("Introduction to Data Analysis\n")

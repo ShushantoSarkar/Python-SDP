@@ -1,0 +1,25 @@
+def subjectItBranchThirdSem():
+    print("\nTheory : \n")
+    print("Engineering Mathematics III \n")
+    print("Digital Circuits & Microprocessors\n")
+    print("Object Oriented Programming\n")
+    print("Data Structures and Program Design-I\n")
+    print(" Computer Architecture & Organization (Self -Learning-Online)\n")
+    print("\nLAB : \n")
+    print("Digital Circuits & Microprocessors\n")
+    print("Object Oriented Programming\n")
+    print("Data Structures and Program Design-I\n")
+    print(" Software\n")
+
+
+def subjectItBranchFourthSem():
+    print("\nTheory : \n")
+    print(" Discrete Mathematics and Probability Theory \n")
+    print("Data Structures and Program Design-II\n")
+    print("Computer Networks\n")
+    print("Operating Systems\n")
+    print("Theory of Computation\n")
+    print("\nLAB : \n")
+    print("Data Structures and Program Design-II\n")
+    print("Computer Networks\n")
+    print("Operating Systems\n")

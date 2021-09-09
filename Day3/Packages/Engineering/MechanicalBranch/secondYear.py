@@ -1,0 +1,26 @@
+def subjectMeBranchThirdSem():
+    print("\nTheory : \n")
+    print("Engineering Mathematics III \n")
+    print("Material Science & Metallurgy \n")
+    print("Machining Process \n")
+    print("Mechanics of Material\n")
+    print("Kinematics of Machines\n")
+    print("Fluid Mechanics\n")
+    print("\nLAB : \n")
+    print("Material Science & Metallurgy \n")
+    print("Machining Process \n")
+    print("Mechanics of Material\n")
+    print("Fluid Mechanics\n")
+
+
+def subjectMeBranchFourthSem():
+    print("\nTheory : \n")
+    print("Advance Mathematical Techniques \n")
+    print("Design of Machine Elements\n")
+    print("Engineering Thermodynamics\n")
+    print("Manufacturing Process-II\n")
+    print("Mechanical measurement & Metrology\n")
+    print("\nLAB : \n")
+    print("Machine Drawing\n")
+    print("Manufacturing Process-II\n")
+    print("Mechanical measurement & Metrology\n")

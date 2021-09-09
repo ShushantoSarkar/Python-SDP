@@ -1,0 +1,3 @@
+from Engineering.CivilBranch.thirdYear import subjectCivilBranchFifthSem
+
+subjectCivilBranchFifthSem()

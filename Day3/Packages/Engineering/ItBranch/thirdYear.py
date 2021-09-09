@@ -1,0 +1,26 @@
+def subjectItBranchFifthSem():
+    print("\nTheory : \n")
+    print("Fundamental of Economics\n")
+    print("Data Base Management Systems\n")
+    print("software Engineering (Self -Learning-Online)\n")
+    print("Professional Elective - I\n")
+    print("Open Elective-I\n")
+    print("Open Elective-II\n")
+    print("Industrial Visit and Learning\n")
+    print("\nLAB : \n")
+    print("Data Base Management Systems\n")
+    print("Professional Elective - I\n")
+
+
+def subjectItBranchSixthSem():
+    print("\nTheory : \n")
+    print("Fundamentals of Management\n")
+    print("Design & Analysis of Algorithms\n")
+    print("Principles of Compiler Design \n")
+    print("Professional Elective - II\n")
+    print("Open Elective-III\n")
+    print("Open Elective-IV\n")
+    print("\nLAB : \n")
+    print("Design & Analysis of Algorithms\n")
+    print("Principles of Compiler Design\n")
+    print("Professional Elective - II\n")
